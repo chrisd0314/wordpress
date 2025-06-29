@@ -46,6 +46,12 @@
                   </a>
                 </li>
                 <li class="nav-item">
+                  <a class="nav-link" href="graduates.html">
+                    GRADUATES
+                    <p>卒業生の声</p>
+                  </a>
+                </li>
+                <li class="nav-item">
                   <a class="nav-link" href="courses.html">
                     COURSES
                     <p>コース</p>
